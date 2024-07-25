@@ -11,7 +11,7 @@
             <img src="ABASTERO2.jpg" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="ABASTERO.png" style="width:100%">
+            <img src="CARNICERO IMPORTADO2.jpeg" style="width:100%">
         </div>
         <div class="mySlides fade">
             <img src="CARNICERO IMPORTADO.png" style="width:100%">
