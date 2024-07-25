@@ -8,7 +8,7 @@
 <body>
     <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="CARNICERO.png" style="width:100%">
+            <img src="ABASTERO2.jpg" style="width:100%">
         </div>
         <div class="mySlides fade">
             <img src="ABASTERO.png" style="width:100%">
