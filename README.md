@@ -9,13 +9,13 @@
 <body>
     <div class="slideshow-container">
         <div class="mySlides fade">
-            <img src="imagen1.jpg" style="width:100%">
+            <img src="CARNICERO.png" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="imagen2.jpg" style="width:100%">
+            <img src="ABASTERO.png" style="width:100%">
         </div>
         <div class="mySlides fade">
-            <img src="imagen3.jpg" style="width:100%">
+            <img src="CARNICERO IMPORTADO.png" style="width:100%">
         </div>
         <!-- Agrega más imágenes según sea necesario -->
     </div>
